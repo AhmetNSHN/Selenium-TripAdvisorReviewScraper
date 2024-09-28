@@ -3,6 +3,7 @@
 ## Overview
 
 The `Selenium-TripAdvisorReviewScraper` is a Python-based web scraping tool designed to extract reviews from TripAdvisor using Selenium. The project is aimed at automating the process of collecting user reviews and ratings for hotels, restaurants, and attractions listed on TripAdvisor. This tool allows users to collect large-scale review data for analysis, sentiment evaluation, or other research purposes.
+
 This project used to collect data for: https://github.com/AhmetNSHN/sentitou
 Collected data: https://github.com/AhmetNSHN/Selenium-TripAdvisorReviewScraper/tree/main/Collected%20Data
 
