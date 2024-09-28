@@ -85,23 +85,3 @@ The script will create an output file (`reviews.csv` or `reviews.json`) with the
 | Reviewer | Review Title | Review Body | Date       | Rating | Location       |
 |----------|--------------|-------------|------------|--------|----------------|
 | JohnDoe  | Great Stay!  | Loved the...| 2024-09-20 | 5/5    | New York, USA  |
-
-## Limitations
-
-- The tool is intended for educational purposes and may not fully comply with the terms of service of TripAdvisor.
-- Scraping large volumes of data might cause temporary IP blocks or captchas.
-- Dynamic web pages with heavy JavaScript reliance may need additional configuration.
-
-## Contributing
-
-If you would like to contribute to the project, feel free to open a pull request or create an issue for discussion.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions, suggestions, or collaboration, reach out to the project owner:
-
-- **GitHub:** [AhmetNSHN](https://github.com/AhmetNSHN)
